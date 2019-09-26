@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/AnimEx.cs">
+    <Files>
+      <File FileName="Assets/Scenes/AnimEx.cs" Line="61" Column="32" />
+      <File FileName="Packages/com.unity.uiwidgets/Samples/UIWidgetsGallery/gallery/app.cs" Line="135" Column="42" />
+      <File FileName="Packages/com.unity.uiwidgets/Samples/UIWidgetsGallery/gallery/home.cs" Line="339" Column="52" />
+      <File FileName="Packages/com.unity.uiwidgets/Runtime/widgets/animated_switcher.cs" Line="99" Column="47" />
+      <File FileName="Packages/com.unity.uiwidgets/Runtime/widgets/dismissible.cs" Line="170" Column="53" />
+      <File FileName="Packages/com.unity.uiwidgets/Runtime/scheduler/ticker.cs" Line="11" Column="29" />
+      <File FileName="Packages/com.unity.uiwidgets/Samples/UIWidgetSample/MaterialSample.cs" Line="99" Column="76" />
+      <File FileName="Packages/com.unity.uiwidgets/Runtime/widgets/ticker_provider.cs" Line="34" Column="57" />
+      <File FileName="Assets/Scenes/ImageEx.cs" Line="50" Column="25" />
+      <File FileName="Packages/com.unity.uiwidgets/Runtime/ui/geometry.cs" Line="224" Column="18" />
+      <File FileName="Packages/com.unity.uiwidgets/Runtime/animation/tween.cs" Line="218" Column="37" />
+      <File FileName="Packages/com.unity.uiwidgets/Runtime/widgets/transitions.cs" Line="61" Column="18" />
+      <File FileName="Assets/Scenes/NavigationEx.cs" Line="81" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
